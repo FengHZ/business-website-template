@@ -13,25 +13,24 @@ const Hero = () => {
             className='w-[32px] h-[32px]'
           />
           <p className={`${styles.paragraph} ml-2`}>
-            <span className='text-white'>20%</span> Discount For {" "}
-            <span className='text-white'>1 Month</span> Account
+            <span className='text-white'>Free</span> Invitation Code: {" "}
+            <span className='text-white'>AzureMyGod</span>
           </p>
         </div>
         <div className='flex flex-row justify-between items-center w-full'>
           <h1 className='flex-1 font-poppins font-semibold ss:text-[72px] text-[52px] text-white ss:leading-[100.8px] leading-[75px]'>
-            The Next <br className='sm:block hidden'/> {" "}
-            <span className='text-gradient'>Generation</span> {" "}
+            The Best Prompted  <br className='sm:block hidden'/> {" "}
+            <span className='text-gradient'> </span> {" "}
           </h1>
           <div className='ss:flex hidden md:mr-4 mr-0'>
             <GetStarted/>
           </div>
         </div>
         <h1 className='font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100px] leading-[75px] w-full'>
-          Payment Method.
+          Privacy-GPT.
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Our team of experts uses a methodology to identify the credit cards most likely to fit your needs. 
-        We examine annual percentage rates, annual fees.  
+           ChatMate LLC aims to provide a generative-AI based, recommender system-driven, multi-role-playing service capable of automatically switching roles based on user input, from work settings to life scenarios, providing an intimate personal assistant. We also offer a privacy-GPT based on differential privacy technology, ensuring that both user data transmission and responses have privacy safety. Our Office is located at 30 N Gould St Ste R, Sheridan, State of Wyoming, 82801. We welcome all clients and partners who are interested in our services to visit us during our business hours.
         </p>
       </div>
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>

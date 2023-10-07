@@ -20,17 +20,17 @@ export const navLinks = [
     id: "home",
     title: "Home",
   },
-  {
-    id: "features",
-    title: "Features",
-  },
-  {
-    id: "product",
-    title: "Product",
-  },
+  // {
+  //   id: "features",
+  //   title: "Features",
+  // },
+  // {
+  //   id: "product",
+  //   title: "Product",
+  // },
   {
     id: "clients",
-    title: "Clients",
+    title: "About us",
   },
 ];
 
@@ -88,18 +88,18 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
-    value: "3800+",
+    title: "Active Users",
+    value: "5800+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
-    value: "230+",
+    title: "Public Institutions",
+    value: "30+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
-    value: "$230M+",
+    title: "Token Usage",
+    value: "10B+",
   },
 ];
 
