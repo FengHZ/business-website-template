@@ -30,7 +30,7 @@ const Hero = () => {
           Privacy-GPT.
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-           ChatMate LLC aims to provide a generative-AI based, recommender system-driven, multi-role-playing service capable of automatically switching roles based on user input, from work settings to life scenarios, providing an intimate personal assistant. We also offer a privacy-GPT based on differential privacy technology, ensuring that both user data transmission and responses have privacy safety. Our Office is located at 30 N Gould St Ste R, Sheridan, State of Wyoming, 82801. We welcome all clients and partners who are interested in our services to visit us during our business hours.
+           ChatMate LLC (Registration ID: 2023-001340043, State of Wyoming) is located at 30 N Gould St Ste R, Sheridan, State of Wyoming, 82801. We aims to provide a generative-AI based, recommender system-driven, multi-role-playing service capable of automatically switching roles based on user input, from work settings to life scenarios, providing an intimate personal assistant. We also offer a privacy-GPT based on differential privacy technology, ensuring that both user data transmission and responses have privacy safety.
         </p>
       </div>
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
